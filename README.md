@@ -14,7 +14,7 @@ POST https://fcc-url-shortener-mouri11.glitch.me/api/shorturl/new - body (urlenc
 
 #### Usage:
 
-https://fcc-url-shortener-mouri11.glitch.me/api/shorturl/9
+https://fcc-url-shortener-mouri11.glitch.me/api/shorturl/11
 
 #### Will redirect to:
 
