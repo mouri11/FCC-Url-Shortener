@@ -10,12 +10,12 @@
 
 #### Creation Example:
 
-POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.google.com
+POST https://fcc-url-shortener-mouri11.glitch.me/api/shorturl/new - body (urlencoded) :  url=https://www.google.com
 
 #### Usage:
 
-[this_project_url]/api/shorturl/3
+https://fcc-url-shortener-mouri11.glitch.me/api/shorturl/10
 
 #### Will redirect to:
 
-http://forum.freecodecamp.com
+https://mouri11.github.io
